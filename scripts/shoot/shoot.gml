@@ -62,3 +62,15 @@ if argument0=16
 {
 //ultraderringer
 }
+if argument0=17
+{
+//lilgun
+}
+if argument0=18
+{
+//shitrock
+}
+if argument0=19
+{
+//Obedient Effbeedubya
+}
