@@ -38,3 +38,14 @@ else
 {
 image_xscale=1
 }
+
+if gamepad_axis_value(0,gp_axislh) < 0.1 && gamepad_axis_value(0,gp_axislv) < 0.1 && gamepad_axis_value(0,gp_axislh) > -0.1 && gamepad_axis_value(0,gp_axislv) > -0.1
+{
+image_index=0
+image_speed=0
+speed=0
+}
+else
+{
+image_speed=speed
+}
