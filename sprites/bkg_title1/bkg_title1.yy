@@ -2,7 +2,7 @@
     "id": "c872ee8a-d72f-481a-a1c2-d268006edee8",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite5",
+    "name": "bkg_title1",
     "For3D": false,
     "HTile": false,
     "VTile": false,
@@ -47,6 +47,13 @@
                     "mvc": "1.0",
                     "FrameId": "99485ca9-22fd-4ae6-8ecd-f1292531c08c",
                     "LayerId": "c19b6fb0-4482-467c-88a5-b55903b020ce"
+                },
+                {
+                    "id": "7a0f7951-2d0f-439c-b160-7e60b5dbcbb7",
+                    "modelName": "GMSpriteImage",
+                    "mvc": "1.0",
+                    "FrameId": "99485ca9-22fd-4ae6-8ecd-f1292531c08c",
+                    "LayerId": "80079975-9f72-4d1c-b898-428f4249946e"
                 }
             ]
         }
@@ -63,6 +70,17 @@
             "blendMode": 0,
             "isLocked": false,
             "name": "Layer 3",
+            "opacity": 100,
+            "visible": true
+        },
+        {
+            "id": "80079975-9f72-4d1c-b898-428f4249946e",
+            "modelName": "GMImageLayer",
+            "mvc": "1.0",
+            "SpriteId": "c872ee8a-d72f-481a-a1c2-d268006edee8",
+            "blendMode": 0,
+            "isLocked": false,
+            "name": "Layer 1",
             "opacity": 100,
             "visible": true
         },
