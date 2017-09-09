@@ -17,3 +17,5 @@ image_yscale=1
 
 image_angle=direction
 sprite_index=asset_get_index("spr_weapon"+string(global.weapon))
+
+global.weapon=global.weapon1

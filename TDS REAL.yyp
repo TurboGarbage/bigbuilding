@@ -31,6 +31,22 @@
     },
     "resources": [
         {
+            "Key": "02b30a5d-2269-44c8-bbe3-6283822f3644",
+            "Value": {
+                "id": "866c190d-e571-40db-9623-d787c5514683",
+                "resourcePath": "objects\\obj_roomskipper\\obj_roomskipper.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "05315a66-7f8e-4505-ac21-5cd48a5aa805",
+            "Value": {
+                "id": "af9cc925-ec7e-4184-822d-08da15f2fd3d",
+                "resourcePath": "rooms\\rm_intromenu\\rm_intromenu.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "09c13ac5-37de-40b4-8612-6cd8aa0dfcf4",
             "Value": {
                 "id": "748fdb4b-ffa1-4b3b-828c-43878e6d3d57",
@@ -244,6 +260,14 @@
                 "id": "28d78762-504c-49d5-b846-d050eaa4e8c8",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d4db3c41-1707-4fca-9f47-10e8a40fa1a3",
+            "Value": {
+                "id": "396686c1-0a0f-4ffa-8eca-8edaf8074d09",
+                "resourcePath": "objects\\obj_viewer\\obj_viewer.yy",
+                "resourceType": "GMObject"
             }
         },
         {

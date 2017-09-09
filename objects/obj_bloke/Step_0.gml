@@ -7,7 +7,7 @@ hspeed=gamepad_axis_value(0,gp_axislh)*2.5
 else
 {
 hspeed=0;
-move_snap(1,1);
+friction=0;
 }
 if place_free(x,y+gamepad_axis_value(0,gp_axislv)*2.5)
 {
@@ -16,7 +16,6 @@ vspeed=gamepad_axis_value(0,gp_axislv)*2.5
 else
 {
 vspeed=0;
-move_snap(1,1)
 friction=0
 }
 }
@@ -44,6 +43,7 @@ if gamepad_axis_value(0,gp_axislh) < 0.1 && gamepad_axis_value(0,gp_axislv) < 0.
 image_index=0
 image_speed=0
 speed=0
+move_snap(1,1);
 }
 else
 {
