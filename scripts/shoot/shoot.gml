@@ -6,10 +6,17 @@ shot.image_angle=direction
 shot.alarm[0]=5
 image_speed=1
 image_index=1
+alarm[0]=12
 }
 if argument0=1
 {
 //dagger
+shot=instance_create_layer(x,y,"instance_layer",obj_weapon1shot)
+shot.image_angle=direction
+shot.alarm[0]=7
+image_speed=1
+image_index=1
+alarm[0]=12
 }
 if argument0=2
 {
