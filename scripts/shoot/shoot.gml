@@ -1,3 +1,12 @@
+if argument0=0
+{
+//puncho
+shot=instance_create_layer(x,y,"instance_layer",obj_weapon0shot)
+shot.image_angle=direction
+shot.alarm[0]=5
+image_speed=1
+image_index=1
+}
 if argument0=1
 {
 //dagger

@@ -49,3 +49,6 @@ else
 {
 image_speed=speed
 }
+
+if global.hp<1
+instance_destroy();

@@ -1,0 +1,1 @@
+with (obj_weapon) instance_destroy();
