@@ -11,8 +11,11 @@ image_xscale=-1
 
 if move=1
 {
-speed=0.5
+
+speed=1
+
 }
 else
 {
+
 }
