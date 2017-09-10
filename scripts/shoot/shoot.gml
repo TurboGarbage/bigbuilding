@@ -5,6 +5,7 @@ if semiautoshot!=1
 {
 shot=instance_create_layer(x,y,"instance_layer",obj_weapon0shot)
 shot.image_angle=direction
+shot.direction=direction
 shot.alarm[0]=5
 image_speed=1
 image_index=1
@@ -18,6 +19,7 @@ if semiautoshot!=1
 {
 shot=instance_create_layer(x,y,"instance_layer",obj_weapon1shot)
 shot.image_angle=direction
+shot.direction=direction
 shot.alarm[0]=7
 image_speed=1
 image_index=1
@@ -31,6 +33,7 @@ if semiautoshot!=1
 {
 shot=instance_create_layer(x,y,"instance_layer",obj_weapon2shot)
 shot.image_angle=direction
+shot.direction=direction
 shot.alarm[0]=30
 image_speed=1
 image_index=1

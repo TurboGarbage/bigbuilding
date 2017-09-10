@@ -65,6 +65,10 @@ if nearestpickup.pickuptype=1
 {
 if global.weapon1=0
 {
+if global.weapon=0
+{
+global.weapon=nearestpickup.pickupid
+}
 global.weapon1=nearestpickup.pickupid
 with(nearestpickup)instance_destroy()
 }
@@ -72,6 +76,10 @@ else
 {
 if global.weapon2=0
 {
+if global.weapon=0
+{
+global.weapon=nearestpickup.pickupid
+}
 global.weapon2=nearestpickup.pickupid
 with(nearestpickup)instance_destroy()
 }
