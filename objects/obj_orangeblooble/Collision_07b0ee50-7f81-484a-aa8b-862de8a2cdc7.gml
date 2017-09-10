@@ -1,1 +1,1 @@
-move_bounce_all(1)
+move_bounce_solid(1)
