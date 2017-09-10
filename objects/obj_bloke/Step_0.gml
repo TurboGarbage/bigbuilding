@@ -52,3 +52,32 @@ image_speed=speed
 
 if global.hp<1
 instance_destroy();
+
+if gamepad_button_check(0,gp_face1)
+{
+if instance_exists(obj_pickup)
+{
+if distance_to_object(instance_nearest(x,y,obj_pickup))<16
+{
+if instance_nearest(x,y,obj_pickup).pickuptype=1
+{
+}
+else
+{
+if instance_nearest(x,y,obj_pickup).pickuptype=2
+{
+
+}
+else
+{
+}
+}
+}
+}
+else
+{
+}
+}
+else
+{
+}
