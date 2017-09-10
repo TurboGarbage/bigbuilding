@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "493e2262-b16e-422e-8ff6-91474f069ed8",
+            "Value": {
+                "id": "a9cdda6f-6af5-4a4b-8f3c-08f1db9e88a5",
+                "resourcePath": "scripts\\useitem\\useitem.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "4c4b15eb-b40f-45e9-9252-e0bba5f6c57e",
             "Value": {
                 "id": "0c15c114-9d54-4b5d-9102-a3931c6bbce6",
@@ -498,7 +506,8 @@
     "script_order": [
         "b742094d-422f-408c-a02f-c1e766971723",
         "90cc9443-6f44-4217-91f2-a247f0fd3462",
-        "ecbf3cc3-293c-41ed-b63d-e37c65ff95ea"
+        "ecbf3cc3-293c-41ed-b63d-e37c65ff95ea",
+        "493e2262-b16e-422e-8ff6-91474f069ed8"
     ],
     "tutorial": ""
 }
