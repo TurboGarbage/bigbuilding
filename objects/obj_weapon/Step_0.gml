@@ -23,11 +23,30 @@ sprite_index=asset_get_index("spr_weapon"+string(global.weapon))
 
 //weapon setting
 if gamepad_button_check_pressed(0,gp_shoulderl)
+{
 global.weapon=global.weapon1
+alarm[2]=90
+}
 
 if gamepad_button_check_pressed(0,gp_shoulderr)
+{
 global.weapon=global.weapon2
+alarm[1]=90
+}
 
+//weapon throw (stop)
+if gamepad_button_check_released(0,gp_shoulderl)
+{
+alarm[2]=0
+}
+
+if gamepad_button_check_released(0,gp_shoulderr)
+{
+alarm[1]=0
+}
+
+
+//shoot
 if gamepad_button_check(0,gp_shoulderrb)
 {
 if !alarm[0]>0
