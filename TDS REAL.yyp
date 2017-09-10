@@ -426,7 +426,7 @@
             "Key": "ecbf3cc3-293c-41ed-b63d-e37c65ff95ea",
             "Value": {
                 "id": "c9a8071e-6fa5-4aa6-8132-7868cd568d0c",
-                "resourcePath": "scripts\\useitem\\useitem.yy",
+                "resourcePath": "scripts\\setitem\\setitem.yy",
                 "resourceType": "GMScript"
             }
         },
