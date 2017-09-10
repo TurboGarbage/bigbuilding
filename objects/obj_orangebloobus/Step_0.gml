@@ -30,7 +30,14 @@ else if (mode==1){
 	direction=point_direction(x,y,obj_bloke.x,obj_bloke.y);}
 else if (mode==2){
 //move from obj_bloke
-	direction=point_direction(obj_bloke.x,obj_bloke.y,x,y);}
+	a=point_direction(obj_bloke.x,obj_bloke.y,x,y);
+	if place_free(x+lengthdir_x(8,a),y+lengthdir_y(8,a)){
+		direction=a;}
+	else{
+		mode=0;
+		if mode0=0{
+			alarm[1]=50+floor(random(60));
+			mode0=1;}}}
 
 //do move
 if move=1
