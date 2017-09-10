@@ -359,6 +359,14 @@
             }
         },
         {
+            "Key": "bab20e50-a9a7-48fd-81ef-80793b029eb5",
+            "Value": {
+                "id": "6d25558d-e661-444f-8aaa-3eba7dbc16ae",
+                "resourcePath": "objects\\obj_orangebloobus\\obj_orangebloobus.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c6b00b91-abaf-405c-bd52-1f5133124a00",
             "Value": {
                 "id": "dd768c06-6ffa-42c2-9dfc-6d4c1b94072e",
