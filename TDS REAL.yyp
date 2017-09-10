@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "37a5eea4-35f9-4074-be3e-7638b8b46f32",
+            "Value": {
+                "id": "d4a8b9e1-0716-4eac-869c-928f9733e625",
+                "resourcePath": "objects\\obj_weapon3shot\\obj_weapon3shot.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3e30dc49-6fc6-46b8-b402-0cd59ae63a55",
             "Value": {
                 "id": "0d055ef8-b2d9-42c2-80ac-eeb8a3c68ea2",
@@ -191,6 +199,14 @@
             }
         },
         {
+            "Key": "72149b16-403e-4d30-b62e-30f959695329",
+            "Value": {
+                "id": "7d0fb107-f65a-4598-8630-c0f03bdc3581",
+                "resourcePath": "objects\\obj_slightlybetterblooble\\obj_slightlybetterblooble.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "770b5234-e892-483e-b164-d00708585652",
             "Value": {
                 "id": "9ac67e5a-0c89-48e6-bd21-2d556f3ec2b9",
@@ -204,6 +220,14 @@
                 "id": "00e55195-878d-41fc-bdc9-4218d15d508f",
                 "resourcePath": "sprites\\spr_weapon1\\spr_weapon1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7cfbc1de-8a9c-40b1-9890-f2b603cb72a0",
+            "Value": {
+                "id": "5d6d57de-b2cf-4d67-a076-26a45f70acd0",
+                "resourcePath": "objects\\obj_weapon2shot\\obj_weapon2shot.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -359,6 +383,14 @@
             }
         },
         {
+            "Key": "c2f70166-abf2-405d-8de1-bc12b152ecbc",
+            "Value": {
+                "id": "32598738-f7b5-4e50-af86-cced70a826fc",
+                "resourcePath": "scripts\\move_enemy_step\\move_enemy_step.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "c6b00b91-abaf-405c-bd52-1f5133124a00",
             "Value": {
                 "id": "dd768c06-6ffa-42c2-9dfc-6d4c1b94072e",
@@ -474,7 +506,8 @@
     "script_order": [
         "b742094d-422f-408c-a02f-c1e766971723",
         "90cc9443-6f44-4217-91f2-a247f0fd3462",
-        "ecbf3cc3-293c-41ed-b63d-e37c65ff95ea"
+        "ecbf3cc3-293c-41ed-b63d-e37c65ff95ea",
+        "c2f70166-abf2-405d-8de1-bc12b152ecbc"
     ],
     "tutorial": ""
 }
