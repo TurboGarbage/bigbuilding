@@ -52,5 +52,11 @@ if gamepad_button_check(0,gp_shoulderrb)
 if !alarm[0]>0
 {
 shoot(global.weapon)
+semiautoshot=1
 }
+}
+
+if gamepad_button_check_released(0,gp_shoulderrb)
+{
+semiautoshot=0
 }

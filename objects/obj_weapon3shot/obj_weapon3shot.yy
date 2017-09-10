@@ -5,7 +5,7 @@
     "name": "obj_weapon3shot",
     "eventList": [
         {
-            "id": "010c0cfd-e4ae-491c-a233-085d48905ba0",
+            "id": "fe9b9c6c-024e-498b-8a2e-a2140e10f8ee",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "37a5eea4-35f9-4074-be3e-7638b8b46f32"
         },
         {
-            "id": "59d8197f-8369-472a-91a9-8343df6578dd",
+            "id": "e0f28185-4189-4d6c-acf1-35b586309005",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,

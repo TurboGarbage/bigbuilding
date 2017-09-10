@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "37a5eea4-35f9-4074-be3e-7638b8b46f32",
+            "Value": {
+                "id": "6acab31d-89c3-4b8f-8eda-ee116176c87c",
+                "resourcePath": "objects\\obj_weapon3shot\\obj_weapon3shot.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3e30dc49-6fc6-46b8-b402-0cd59ae63a55",
             "Value": {
                 "id": "0d055ef8-b2d9-42c2-80ac-eeb8a3c68ea2",
@@ -204,6 +212,14 @@
                 "id": "00e55195-878d-41fc-bdc9-4218d15d508f",
                 "resourcePath": "sprites\\spr_weapon1\\spr_weapon1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7cfbc1de-8a9c-40b1-9890-f2b603cb72a0",
+            "Value": {
+                "id": "ae272f3d-d531-466e-8963-edbb6fef43a2",
+                "resourcePath": "objects\\obj_weapon2shot\\obj_weapon2shot.yy",
+                "resourceType": "GMObject"
             }
         },
         {

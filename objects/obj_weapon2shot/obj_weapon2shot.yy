@@ -5,7 +5,7 @@
     "name": "obj_weapon2shot",
     "eventList": [
         {
-            "id": "d824e0dc-05cc-4dd9-83a8-698daddf150e",
+            "id": "efb56bda-8f32-44b8-9467-7463b5846c66",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -15,7 +15,7 @@
             "m_owner": "7cfbc1de-8a9c-40b1-9890-f2b603cb72a0"
         },
         {
-            "id": "35c58b31-745e-48b9-9fa3-ebab1857f764",
+            "id": "05c88f67-08ee-4b2b-93ae-673bf2be3ab8",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -25,7 +25,7 @@
             "m_owner": "7cfbc1de-8a9c-40b1-9890-f2b603cb72a0"
         },
         {
-            "id": "19a9eef0-3e42-48c5-b26b-fe3b9875e4cb",
+            "id": "3c6cda71-f4f9-4372-935d-ba93ffd47d13",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -35,7 +35,7 @@
             "m_owner": "7cfbc1de-8a9c-40b1-9890-f2b603cb72a0"
         },
         {
-            "id": "0c279688-df8b-4154-82c9-d03334cbdc28",
+            "id": "83d1765b-f059-4d0f-bbe9-4e8499a4ddc8",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,

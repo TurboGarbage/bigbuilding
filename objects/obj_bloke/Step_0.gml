@@ -53,11 +53,12 @@ image_speed=speed
 if global.hp<1
 instance_destroy();
 
+//pressing A
 if gamepad_button_check(0,gp_face1)
 {
 if instance_exists(obj_pickup)
 {
-instance_nearest(x,y,obj_pickup)=nearestpickup
+nearestpickup=instance_nearest(x,y,obj_pickup)
 if distance_to_object(nearestpickup)<16
 {
 if nearestpickup.pickuptype=1
@@ -65,14 +66,14 @@ if nearestpickup.pickuptype=1
 if global.weapon1=0
 {
 global.weapon1=nearestpickup.pickupid
-nearestpickup.instance_destroy()
+with(nearestpickup)instance_destroy()
 }
 else
 {
 if global.weapon2=0
 {
 global.weapon2=nearestpickup.pickupid
-nearestpickup.instance_destroy()
+with(nearestpickup)instance_destroy()
 }
 else
 {
@@ -86,30 +87,26 @@ if nearestpickup.pickuptype=2
 if global.item1=0
 {
 global.item1=nearestpickup.pickupid
-nearestpickup.instance_destroy()
+with(nearestpickup)instance_destroy()
 }
 else
 {
 if global.item2=0
 {
 global.item2=nearestpickup.pickupid
-nearestpickup.instance_destroy()
+with(nearestpickup)instance_destroy()
 }
 else
 {
 if global.item3=0
 {
 global.item3=nearestpickup.pickupid
-nearestpickup.instance_destroy()
+with(nearestpickup)instance_destroy()
 }
 else
 {
 }
 }
-
-}
-else
-{
 }
 }
 }
@@ -120,4 +117,5 @@ else
 }
 else
 {
+}
 }

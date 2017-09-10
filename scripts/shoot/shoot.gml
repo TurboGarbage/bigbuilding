@@ -1,6 +1,8 @@
 if argument0=0
 {
 //puncho
+if semiautoshot!=1
+{
 shot=instance_create_layer(x,y,"instance_layer",obj_weapon0shot)
 shot.image_angle=direction
 shot.alarm[0]=5
@@ -8,9 +10,12 @@ image_speed=1
 image_index=1
 alarm[0]=12
 }
+}
 if argument0=1
 {
 //dagger
+if semiautoshot!=1
+{
 shot=instance_create_layer(x,y,"instance_layer",obj_weapon1shot)
 shot.image_angle=direction
 shot.alarm[0]=7
@@ -18,13 +23,32 @@ image_speed=1
 image_index=1
 alarm[0]=12
 }
+}
 if argument0=2
 {
 //axe
+if semiautoshot!=1
+{
+shot=instance_create_layer(x,y,"instance_layer",obj_weapon2shot)
+shot.image_angle=direction
+shot.alarm[0]=30
+image_speed=1
+image_index=1
+alarm[0]=12
+}
 }
 if argument0=3
 {
 //bluesword
+if semiautoshot!=1
+{
+shot=instance_create_layer(x,y,"instance_layer",obj_weapon3shot)
+shot.image_angle=direction
+shot.direction=direction
+shot.speed=8
+shot.alarm[0]=45
+alarm[0]=12
+}
 }
 if argument0=4
 {
@@ -80,7 +104,7 @@ if argument0=16
 }
 if argument0=17
 {
-//lilgun
+//uncontrollableuzi
 }
 if argument0=18
 {
