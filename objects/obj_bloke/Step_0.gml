@@ -54,7 +54,7 @@ if global.hp<1
 instance_destroy();
 
 //pressing A
-if gamepad_button_check(0,gp_face1)
+if gamepad_button_check_pressed(0,gp_face1)
 {
 if instance_exists(obj_pickup)
 {
@@ -85,6 +85,8 @@ with(nearestpickup)instance_destroy()
 }
 else
 {
+error=2
+alarm[1]=100
 }
 }
 }
@@ -113,6 +115,8 @@ with(nearestpickup)instance_destroy()
 }
 else
 {
+error=1
+alarm[1]=100
 }
 }
 }

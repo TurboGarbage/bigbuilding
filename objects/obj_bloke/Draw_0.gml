@@ -7,3 +7,12 @@ else
 {
 image_alpha=1
 }
+
+if error=1
+{
+draw_sprite(spr_errorbag,ticker,x,y-16)
+}
+else if error=2
+{
+draw_sprite(spr_errorweapon,ticker,x,y-16)
+}

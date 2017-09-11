@@ -1,7 +1,16 @@
 /*
+
+important variables
+{
+global.hp=player health
+global.wepaon=current weapon
+global.weapon1,weapon2=what weapon1 and weapon2 are
+global.item1,item2,item3=same thing but for items
+}
+
 TO DO
 
--items draw to hud
+DONE-items draw to hud
 	weapboxL=25,30
 	weapboxR=63,30
 	itemboxX=99,27
