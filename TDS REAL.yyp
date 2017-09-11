@@ -399,6 +399,14 @@
             }
         },
         {
+            "Key": "c7ea07d5-e5f6-45ad-a6ae-4554230a9498",
+            "Value": {
+                "id": "8eeeeeac-9674-4c17-8fd1-0298454f995f",
+                "resourcePath": "scripts\\TODOLIST\\TODOLIST.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "c872ee8a-d72f-481a-a1c2-d268006edee8",
             "Value": {
                 "id": "78508b82-341c-4e79-9159-f55dad04da8e",
@@ -507,7 +515,8 @@
         "b742094d-422f-408c-a02f-c1e766971723",
         "90cc9443-6f44-4217-91f2-a247f0fd3462",
         "ecbf3cc3-293c-41ed-b63d-e37c65ff95ea",
-        "493e2262-b16e-422e-8ff6-91474f069ed8"
+        "493e2262-b16e-422e-8ff6-91474f069ed8",
+        "c7ea07d5-e5f6-45ad-a6ae-4554230a9498"
     ],
     "tutorial": ""
 }
