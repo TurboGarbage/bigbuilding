@@ -533,6 +533,14 @@
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
             }
+        },
+        {
+            "Key": "f7a853ac-fbe7-4976-a792-0189f04be8fb",
+            "Value": {
+                "id": "5bd232e3-6d98-4515-a55c-e108a0485ed8",
+                "resourcePath": "sprites\\spr_errorkey\\spr_errorkey.yy",
+                "resourceType": "GMSprite"
+            }
         }
     ],
     "script_order": [

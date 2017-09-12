@@ -18,7 +18,7 @@ DONE-items draw to hud
 	itemboxB=163,27
 	*2 -3 for windowed, *3 -3 for fullscreen
 
--error notices 
+DONE-error notices 
 	no room for item
 	no room for weapon
 	don't have correct key
@@ -33,6 +33,9 @@ DONE-items draw to hud
 	carrying item indicator on right of healthbar
 	maybe special indicator for variants on left of healthbar?
 
+-fix recoil on new enemies
+	make it fixed
+	
 -enemies don't walk through eachother completely5
 	can clip but not enough to make enemy hud look messy
 
