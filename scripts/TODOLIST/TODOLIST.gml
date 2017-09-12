@@ -36,7 +36,7 @@ DONE-error notices
 -fix recoil on new enemies
 	make it fixed
 	
--enemies don't walk through eachother completely5
+-enemies don't walk through eachother completely
 	can clip but not enough to make enemy hud look messy
 
 -options screen

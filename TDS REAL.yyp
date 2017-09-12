@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "3faa1f2c-0d33-4f33-9f2c-3329b882c76d",
+            "Value": {
+                "id": "d5662e2e-d6f3-4c7b-8dfd-ddcbbdae415e",
+                "resourcePath": "sprites\\spr_font_green\\spr_font_green.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "42ac1963-fdff-4523-93da-d5cb45fe2b84",
             "Value": {
                 "id": "9149edd6-e911-482d-be7b-0932ae9c5da1",
@@ -215,6 +223,14 @@
             }
         },
         {
+            "Key": "7530c7aa-93af-487b-8286-57161889154f",
+            "Value": {
+                "id": "e293395e-5b91-4f07-82a6-19099a3f8f2e",
+                "resourcePath": "sprites\\spr_font_blue\\spr_font_blue.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "770b5234-e892-483e-b164-d00708585652",
             "Value": {
                 "id": "9ac67e5a-0c89-48e6-bd21-2d556f3ec2b9",
@@ -227,6 +243,22 @@
             "Value": {
                 "id": "00e55195-878d-41fc-bdc9-4218d15d508f",
                 "resourcePath": "sprites\\spr_weapon1\\spr_weapon1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "775aa775-66e5-41dd-ad75-8a0e3d9bc3da",
+            "Value": {
+                "id": "d91b0610-8d66-4463-a75a-d198ceabe361",
+                "resourcePath": "views\\775aa775-66e5-41dd-ad75-8a0e3d9bc3da.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7b85926a-8e32-4a90-8ae7-d9a92d735679",
+            "Value": {
+                "id": "42d477cb-7c2f-4e07-99f4-453dd27c7e32",
+                "resourcePath": "sprites\\spr_font_grey\\spr_font_grey.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -244,6 +276,14 @@
                 "id": "ae272f3d-d531-466e-8963-edbb6fef43a2",
                 "resourcePath": "objects\\obj_weapon2shot\\obj_weapon2shot.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7d1dc096-a8aa-4002-9f20-2316bb7880d9",
+            "Value": {
+                "id": "77a442a2-2b31-4e4c-bbd8-9bdb5c7998c7",
+                "resourcePath": "sprites\\spr_font_red\\spr_font_red.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -335,6 +375,14 @@
             }
         },
         {
+            "Key": "aa97fc2f-08d8-4e60-8a13-1c4f4637c1a4",
+            "Value": {
+                "id": "11128485-9bd7-4bf2-a295-3403293e953c",
+                "resourcePath": "sprites\\spr_font_purple\\spr_font_purple.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "aad6d3d3-eb0c-4ed2-8943-3a2d339b466e",
             "Value": {
                 "id": "fbf84b16-a69e-4edb-b84e-21960197c8af",
@@ -404,6 +452,14 @@
                 "id": "6d25558d-e661-444f-8aaa-3eba7dbc16ae",
                 "resourcePath": "objects\\obj_orangebloobus\\obj_orangebloobus.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bbd90129-7208-494d-8058-8c30474a5a54",
+            "Value": {
+                "id": "54b22b89-aa96-441b-8cbd-97674aafdb1f",
+                "resourcePath": "sprites\\spr_font_gold\\spr_font_gold.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
