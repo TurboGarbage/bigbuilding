@@ -17,7 +17,7 @@ else{
 		mode=2;
 		mode0=0;}}
 
-
+if ishit=0{
 //do this coz mode is that
 if (mode==0){
 //wander
@@ -38,6 +38,7 @@ else if (mode==2){
 		if mode0=0{
 			alarm[1]=50+floor(random(60));
 			mode0=1;}}}
+}
 
 //do move
 if move=1
