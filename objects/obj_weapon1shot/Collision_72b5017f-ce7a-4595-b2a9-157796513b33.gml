@@ -9,5 +9,6 @@ hp-=1
 motion_add(other.direction,3)
 flicker=1
 alarm[0]=15
+ishit=1;
 }
 }

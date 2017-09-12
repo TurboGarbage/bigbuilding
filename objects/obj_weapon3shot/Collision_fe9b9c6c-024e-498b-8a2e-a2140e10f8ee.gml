@@ -9,6 +9,7 @@ hp-=1
 motion_add(other.direction,1)
 flicker=1
 alarm[0]=15
+ishit=1;
 }
 }
 instance_destroy()
