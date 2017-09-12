@@ -38,7 +38,7 @@ else if (mode==2){
 		if mode0=0{
 			alarm[1]=50+floor(random(60));
 			mode0=1;}}}
-}
+
 
 //do move
 if move=1
@@ -47,4 +47,5 @@ speed=1;
 }
 else
 {
+}
 }
