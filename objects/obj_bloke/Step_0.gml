@@ -70,6 +70,11 @@ if global.weapon=0
 global.weapon=nearestpickup.pickupid
 }
 global.weapon1=nearestpickup.pickupid
+with(obj_weapon)
+{
+animset(global.weapon)
+image_index=0
+}
 with(nearestpickup)instance_destroy()
 }
 else
@@ -81,6 +86,11 @@ if global.weapon=0
 global.weapon=nearestpickup.pickupid
 }
 global.weapon2=nearestpickup.pickupid
+with(obj_weapon)
+{
+animset(global.weapon)
+image_index=0
+}
 with(nearestpickup)instance_destroy()
 }
 else

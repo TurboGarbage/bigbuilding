@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "21504539-9805-4f8b-a438-b4af077778c6",
+            "Value": {
+                "id": "fe0e8e74-40de-470b-a7b8-8faf76e3f8bb",
+                "resourcePath": "views\\21504539-9805-4f8b-a438-b4af077778c6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "29fce9b0-a49a-46f9-9220-a5aaa460146a",
             "Value": {
                 "id": "08cf7c59-7462-48b4-9c7b-3648e2fcb793",
@@ -116,6 +124,14 @@
                 "id": "e0322b72-e5a8-4dce-9512-2234a14125f8",
                 "resourcePath": "views\\2f35a80c-b1b0-4de8-a3f3-31ef9ae3168e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2f6a80b0-bef8-4453-ac02-b624056f71f4",
+            "Value": {
+                "id": "0fe7fd5d-0005-4e33-af4f-1832a9155d90",
+                "resourcePath": "sprites\\spr_junk\\spr_junk.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -211,6 +227,14 @@
             "Value": {
                 "id": "10ae4db8-8396-4c06-9927-9cec02115919",
                 "resourcePath": "sprites\\spr_wall\\spr_wall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6d17d1c7-4154-4b05-a8e3-8fe7669763d3",
+            "Value": {
+                "id": "b7b98f42-9033-453c-bf85-c29c15511b53",
+                "resourcePath": "sprites\\spr_woopy\\spr_woopy.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -495,6 +519,14 @@
             }
         },
         {
+            "Key": "d05363f7-991a-4fba-b168-60c572d8399f",
+            "Value": {
+                "id": "9c62ec27-bc51-43aa-8ce0-e57dad0d2336",
+                "resourcePath": "scripts\\animset\\animset.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "d4db3c41-1707-4fca-9f47-10e8a40fa1a3",
             "Value": {
                 "id": "396686c1-0a0f-4ffa-8eca-8edaf8074d09",
@@ -601,6 +633,7 @@
     ],
     "script_order": [
         "b742094d-422f-408c-a02f-c1e766971723",
+        "d05363f7-991a-4fba-b168-60c572d8399f",
         "90cc9443-6f44-4217-91f2-a247f0fd3462",
         "ecbf3cc3-293c-41ed-b63d-e37c65ff95ea",
         "493e2262-b16e-422e-8ff6-91474f069ed8",

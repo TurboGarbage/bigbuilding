@@ -8,4 +8,4 @@ else
 ticker=1
 }
 
-alarm[2]=30
+alarm[2]=20

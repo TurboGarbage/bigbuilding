@@ -26,12 +26,22 @@ if gamepad_button_check_pressed(0,gp_shoulderl)
 {
 global.weapon=global.weapon1
 alarm[2]=90
+animset(global.weapon)
+image_index=0
 }
 
 if gamepad_button_check_pressed(0,gp_shoulderr)
 {
 global.weapon=global.weapon2
 alarm[1]=90
+animset(global.weapon)
+image_index=0
+}
+
+//wepaon animation
+if !animated=0
+{
+animset(global.weapon)	
 }
 
 //weapon throw (stop)
